@@ -7,30 +7,34 @@
 
 📌 Sobre o Projeto
 ClientAutoFill é uma automação desenvolvida em Java 17 com o objetivo de agilizar o processo de cadastro de clientes em sistemas web. É ideal para quem realiza cadastros manuais com frequência e busca reduzir tempo e erros operacionais.
-
 A aplicação preenche automaticamente campos comuns em formulários online, garantindo eficiência e consistência nos dados inseridos.
 
 ✨ Funcionalidades
 Preenchimento automático dos campos:
 
-Nome completo
+●Nome completo
 
-CPF ou CNPJ
+●CPF ou CNPJ
 
-Telefone
+●Telefone
 
-Endereço
+●Endereço
 
-Compatível com sistemas web baseados em navegador
+●Compatível com sistemas web baseados em navegador
 
-Execução repetida para múltiplos cadastros
+●Execução repetida para múltiplos cadastros
 
-Estrutura modular, fácil de adaptar a diferentes plataformas
+●Estrutura modular, fácil de adaptar a diferentes plataformas
 
 🚀 Como Executar o Projeto
+
 ✅ Pré-requisitos
-Java JDK 17+
 
-Maven
+●Java JDK 17+
 
-Git
+●Maven
+
+●Git
+
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+
